@@ -1,0 +1,14 @@
+#menu * {
+    display: inline-block;
+}
+
+#menu-items {
+    float: right;
+}
+#menu-items ul {
+    list-style-type: none;
+}
+
+#menu-items li {
+    display: inline-block;
+}
